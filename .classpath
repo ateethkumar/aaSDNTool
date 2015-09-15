@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Lib"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/annotations.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/guava-14.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/javac2.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jediterm-pty-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jediterm-pty-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jediterm-ssh-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jediterm-ssh-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jediterm-ssh-connector-2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jna-platform.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jna.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jsch-0.1.51.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jzlib-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/pty4j-0.3.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/purejavacomm-0.0.17.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jung-3d-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jung-jai-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jung-visualization-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jung-io-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jung-algorithms-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jung-graph-impl-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/jung-api-2.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/j3d-core-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/vecmath-1.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/wstx-asl-3.2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/colt-1.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/concurrent-1.3.4.jar"/>
+	<classpathentry kind="lib" path="/Users/ateethkumar/Documents/workspace/AASDNTool/Lib/collections-generic-4.01.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
